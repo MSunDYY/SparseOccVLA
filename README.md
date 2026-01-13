@@ -59,7 +59,7 @@ If this work is helpful for your research, please consider citing:
 ```
 @article{dang2026sparseoccvla,
   title={SparseOccVLA: Bridging Occupancy and Vision-Language Models via Sparse Queries for Unified 4D Scene Understanding and Planning}, 
-  author={Dang, Chenxu and Wang, Jie and Guang, Li and Zihan, You and Hangjun, Ye and Jie, Ma and Long, Chen and Yan, Wang},
+  author={Dang, Chenxu and Wang, Jie and Li, Guang and You, Zihan and Ye, Hangjun and Ma, Jie and Chen, Long and Wang, Yan},
   journal={arXiv preprint arXiv:2601.06474},
   year={2026}
 }
