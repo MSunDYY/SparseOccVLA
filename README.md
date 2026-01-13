@@ -35,7 +35,7 @@ In autonomous driving, Vision Language Models (VLMs) excel at high-level reasoni
 
 ## News
 
-- **`2025/10.10`**: The paper is released on [arXiv](https://arxiv.org/abs/2601.06474). 
+- **`2026/1.13`**: The paper is released on [arXiv](https://arxiv.org/abs/2601.06474). 
 
 ## To DO
 - [ ] Release the Code and checkpoints as soon as possible.
