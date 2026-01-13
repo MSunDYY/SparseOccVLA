@@ -62,7 +62,7 @@ If this work is helpful for your research, please consider citing:
   author={Dang, Chenxu and Wang, Jie and Guang, Li and Zihan, You and Hangjun, Ye and Jie, Ma and Long, Chen and Yan, Wang},
   journal={arXiv preprint arXiv:2601.06474},
   year={2026}
-    }
+}
 ```
 ```
 @article{dang2025sparseworld,
